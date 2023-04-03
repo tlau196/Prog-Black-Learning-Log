@@ -7,7 +7,7 @@ So far I have been able to cover variables, variable mutability, data types, and
 
 My goals for this project are to successfully write front end client side fetch api in typescript and be able to modify and add functionality to a REST api written in rust. The collaborative website will be for members of the badminton society to be able to create profiles for themselves and record their games and opponents. Through this we will be able to implement an elo system creating a general approximation of how good a player is. I plan to handle most of the front end html and javascript however we may decide to switch the fetch api to also be written in rust.
 
-## 6.4.2022: More Rust and Starting project
+## 3.4.2022: More Rust and Starting project
 Over this week I have learned more Rust going back over to get a better understanding of Rust ownership concerning pointers and Rust's built in garbage collection system, most of which was learnt from the rust programming language book. This was mostly done between Monday and Wednesday. Most of the rest of the week was spent starting working on the website project. Most of this work was just creating a dashboard type html template page where users can see their profile statistics, these include: ELO, recent games and more.
 
 The template page I build using bootstrap which helped develop my knowledge in how to use bootstrap grids and containers to lay out elements on the page. So far the information on the page such as games and user elo are just stand in text as I have not started doing the front end javascript. Much of the lack of actual functionality at the moment is also due to the current lack of a back end api.
