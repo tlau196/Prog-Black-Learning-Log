@@ -1,0 +1,8 @@
+# Learning Log
+
+## 27.3.2022: Typescript and finding a project
+Over the last two weeks I have began to learn typescript and the basics of rust. This is in preparation of working on a collaborative website designed for the badminton society at Durham. Most of the javascript for the project will be written in Typescript and the backend will be written in rust. I been learning rust through the online book [The Rust Programming Language](https://doc.rust-lang.org/book/). 
+
+So far I have been able to cover variables, variable mutability, datatypes, and functions along with rust ownership and structs. I have also been translating some of my existing python programs from previous projects and assignments into rust for practice. On the Typescript side I have been learning from [w3schools](https://www.w3schools.com/typescript/typescript_object_types.php). So far Object types, arrays, tuples and enumerated values have been covered.
+
+My goals for this project are to successfully write frontend client side fetch api in typescript and be able to modify and add functionality to a REST api written in rust. The collaborative website will be for members of the badminton society to be able to create profiles for themselves and record their games and opponents. Through this we will be able to implement an elo system creating a general approximation of how good a player is. I plan to handle most of the front end html and javascript however we may decide to switch the fetch api to also be written in rust.
